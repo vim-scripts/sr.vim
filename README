@@ -1,0 +1,8 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=516
+
+This is a syntax highlighting script for synchronizing resources.
+This language is mainly intended for educational use and I doubt anyone will find it useful for writing anything meant for widespread use.
+You can find the homepage here http://www.cs.arizona.edu/sr/
+and an excellent reference here http://www.mcs.drexel.edu/~shartley/OSusingSR/
+
+You could probably extend this script alot by specifying regions and clusters and stuff, but as I will probably never use the language again I didn't bother learning how to.
